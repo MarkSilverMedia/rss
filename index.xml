@@ -2,59 +2,18 @@
 <rss version="2.0">
 <channel>
 
-<title>The Groovy Galleon Track Archive</title>
-<link>https://marksilvermedia.github.io/groovygalleon/tunes</link>
-<description>Freely-licensed demos by Mark! Silver.</description>
+<title>Mark! Silver Media</title>
+<link>https://marksilvermedia.github.io/rss</link>
+<description>Official project/blog update feed for all things Mark! Silver Media.</description>
 
 <item>
 
 <title>Spacejunk</title>
 
-<link>https://archive.org/download/Spacejunk_201707/Spacejunk.flac</link>
-<guid>https://archive.org/download/Spacejunk_201707/Spacejunk.flac</guid>
+<link>https://marksilvermedia.github.io/rss</link>
+<guid>https://marksilvermedia.github.io/rss</guid>
 
-<description>Demo by Mark! Silver | Licensed under CC BY 4.0.</description>
-
-<enclosure url="https://archive.org/download/Spacejunk_201707/Spacejunk.flac" type="audio/flac"/>
-
-</item>
-  
-<item>
-
-<title>Mr. Lansing's Road (50/90 Demo)</title>
-
-<link>https://archive.org/download/Mr.LansingsRoad/Mr.%20Lansing's%20Road.flac</link>
-<guid>https://archive.org/download/Mr.LansingsRoad/Mr.%20Lansing's%20Road.flac</guid>
-
-<description>Demo by Mark! Silver | Licensed under CC BY 4.0.</description>
-
-<enclosure url="https://archive.org/download/Mr.LansingsRoad/Mr.%20Lansing's%20Road.flac" type="audio/flac"/>
-
-</item>
-
-<item>
-
-<title>Don't Let The Sun (Acoustic Demo)</title>
-
-<link>https://ia601505.us.archive.org/10/items/dontletthesunacoustic/dontletthesunacoustic.ogg</link>
-<guid>https://ia601505.us.archive.org/10/items/dontletthesunacoustic/dontletthesunacoustic.ogg</guid>
-
-<description>Demo by Mark! Silver | Licensed under CC BY 4.0.</description>
-
-<enclosure url="https://ia601505.us.archive.org/10/items/dontletthesunacoustic/dontletthesunacoustic.ogg" type="audio/ogg"/>
-
-</item>
-
-<item>
-
-<title>Who Needs Magic Anyways?</title>
-
-<link>https://marksilvermedia.github.io/assets/music/emawm/whoneedsmagicanyways.mp3</link>
-<guid>https://marksilvermedia.github.io/assets/music/emawm/whoneedsmagicanyways.mp3</guid>
-
-<description>Demo by Mark! Silver | Licensed under CC BY 4.0.</description>
-
-<enclosure url="https://marksilvermedia.github.io/assets/music/emawm/whoneedsmagicanyways.mp3" type="audio/mp3"/>
+<description>My RSS feed is up and running now! Can you believe it? Be sure to subscribe to this thing so that you don't miss the latest updates/projects/articles/music/podcast episodes/whatnot from myself. :)</description>
 
 </item>
 
